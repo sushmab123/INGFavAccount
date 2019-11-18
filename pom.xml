@@ -88,10 +88,6 @@
         <id>artifactory</id>
        <url>http://52.66.250.92:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
-<snapshotRepository>
-    <id>artifactory</id>
-    <url>http://52.66.250.92:8081/artifactory/libs-snapshot-local/</url>
-  </snapshotRepository>
 </distributionManagement>
 
 
